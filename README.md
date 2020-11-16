@@ -483,7 +483,7 @@ Now, we should be all set to compile and run just like before!
 
 Of course being able grab data from a RESTful end point is great, but what about a full back end? This is where Azure Mobile Apps comes in. Let's upgrade our application to use an Azure Mobile Apps back end.
 
-Head to [http://portal.azure.com](http://portal.azure.com) and register for an account.
+Head to [https://portal.azure.com/?WT.mc_id=opensource-0000-cyzanon](https://portal.azure.com/?WT.mc_id=opensource-0000-cyzanon) and register for an account.
 
 Once you are in the portal select the **+ New** button and search for **mobile apps** and you will see the results as shown below. Select **Mobile Apps Quickstart**
 
@@ -520,7 +520,7 @@ This will take about 3-5 minutes to setup, so let's head back to the code!
 
 
 ### Update AzureService.cs
-We will be using the [Azure Mobile Apps SDK](https://azure.microsoft.com/en-us/documentation/articles/app-service-mobile-xamarin-forms-get-started/) to add an Azure back end to our mobile app in just a few lines of code.
+We will be using the [Azure Mobile Apps SDK](https://azure.microsoft.com/documentation/articles/app-service-mobile-xamarin-forms-get-started/?WT.mc_id=opensource-0000-cyzanon) to add an Azure back end to our mobile app in just a few lines of code.
 
 In the DevDaysSpeakers/Services/AzureService.cs file let's add in our url to the Initialize method.
 
@@ -603,9 +603,9 @@ Now you can re-run your application and get data from Azure!
 Take Dev Days further with these additional challenges that you can complete at home after Dev Days ends.
 
 ### Challenge 1: Cognitive Services
-For fun, you can add the [Cognitive Serivce Emotion API](https://www.microsoft.com/cognitive-services/en-us/emotion-api) and add another Button to the detail page to analyze the speaker's face for happiness level. 
+For fun, you can add the [Cognitive Serivce Emotion API](https://www.microsoft.com/cognitive-services/en-us/emotion-api?WT.mc_id=opensource-0000-cyzanon) and add another Button to the detail page to analyze the speaker's face for happiness level. 
 
-Go to: http://microsoft.com/cognitive and create a new account and an API key for the Emotion service.
+Go to: https://microsoft.com/cognitive?WT.mc_id=opensource-0000-cyzanon and create a new account and an API key for the Emotion service.
 
 Follow these steps:
 
